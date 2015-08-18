@@ -1,0 +1,65 @@
+P4
+HISPANIC OR LATINO ORIGIN
+
+Universe: Total population
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r40193)	This count has been revised.   
+Revised count: 1,739 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40195)	This count has been revised.   
+Revised count: 0 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40197)	This count has been revised.   
+Revised count: 428 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40199)	This count has been revised.   
+Revised count: 39 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40204)	This count has been revised.   
+Revised count: 889 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40205)	This count has been revised.   
+Revised count: 157 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40201)	This count has been revised.   
+Revised count: 1,096 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+Source: U.S. Census Bureau, 2010 Census.
+
