@@ -12,14 +12,20 @@ import logging
 def mergefile():
     logging.basicConfig(filename = 'log.log',format = '%(asctime)s %(levelname)s:%(message)s', level=logging.DEBUG)
     logging.info('merge started')
-    path = r'C:\\Users\\GIS_tech\\Desktop\\66county\\FiltedAnnFile'
-    destination = r'C:\\Users\\GIS_tech\\Desktop\\66county'
+    path = r'C:\\Users\\gstrode\\censusData\\FiltedAnnFile'
+    destination = r'C:\\Users\\gstrode\\censusData'
     
     assert os.path.exists(destination)
     assert os.path.exists(path), "Could not find %s !!!" % path
     
     files = os.listdir(path)
-    #print files
+	
+	#print file orders 
+    ordered_file = open("file_orders","wb")
+    for x in files:
+		ordered_file.write(x+"\r\n")
+    ordered_file.close()
+	
     files = [join(path,x) for x in files if 'ann.csv' in x]
     print files
     

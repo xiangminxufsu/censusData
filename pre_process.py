@@ -5,40 +5,29 @@ import logging
 from distutils.dir_util import copy_tree
 import shutilimport time
 
-directory = r'C:\\Users\\GIS_tech\\Desktop\\66county' #main dir
-unzipdir = os.path.join(directory,'source1') #zip file source
-unzipdes = os.path.join(directory,'extracted')#r'C:\\Users\\GIS_tech\\Desktop\\66county\\extracted' #unzip dir
+directory = r'C:\\Users\\gstrode\\censusData' #main dir
+unzipdir = os.path.join(directory,'zipped') #zip file source
+unzipdes = os.path.join(directory,'extracted')
 sampledir = os.path.join(directory,"sample")
 
 
 def unzip(directory,subdir,desdir):
-  
     logging.basicConfig(filename = 'log.log',format = '%(asctime)s %(levelname)s:%(message)s', level=logging.DEBUG)
     #print directory
     assert os.path.exists(directory), "%s not exists!"%(directory)
     assert os.path.exists(subdir), "%s not exists!"%(directory)
-    
     if not os.path.exists(desdir):
         logging.warning("folder %s not exists, we are making one now" %desdir)
         os.mkdir(desdir)
-        
     logging.info("paths checked, now start unzip")   
-    for x in os.listdir(subdir):
-        xdir = os.path.join(subdir,x)
-
-        if "._" in x: #shadow file from osx no need to process
-            print  "find useless file",x
-            continue
-            
-        fh = open(xdir,'rb')
-        z = zipfile.ZipFile(fh)
-        newdir = os.path.join(desdir,"biu_"+x)
+    for x in os.listdir(subdir):				xdir = os.path.join(subdir,x)		if "._" in x: #shadow file from osx no need to process			print  "find useless file",x			continue				fh = open(xdir,'rb')	
+		z = zipfile.ZipFile(fh)
+		newdir = os.path.join(desdir,"biu_"+x)
         #print newdir
-        os.mkdir(newdir)
-        for name in z.namelist():
-            z.extract(name,newdir)
-        fh.close()
-    logging.info("unzip completed, have a great day!")
+		os.mkdir(newdir)
+		for name in z.namelist():
+			z.extract(name,newdir)
+		fh.close()	#logging.info("unzip completed, have a great day!")
 	
 	
 def checkdata(Directory,SampleDir,CmpDir):

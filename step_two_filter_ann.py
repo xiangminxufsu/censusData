@@ -3,8 +3,8 @@ import os
 import re
 import logging
 
-newdirectory = r'C:\\Users\\GIS_tech\\Desktop\\66county\\FiltedAnnFile'
-directory = r'C:\\Users\\GIS_tech\\Desktop\\66county\\changeMetaDatahere'
+newdirectory = r'C:\\Users\\gstrode\\censusData\\FiltedAnnFile'
+directory = r'C:\\Users\\gstrode\\censusData\\changeMetaDatahere'
 
 def handler(outf,annf,metaf):
     #print annf.readline()

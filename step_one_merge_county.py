@@ -6,10 +6,10 @@ from distutils.dir_util import copy_tree
 #config
 
 
-desdir = r'C:\\Users\\GIS_tech\\Desktop\\66county\\changeMetaDataHere'
-targetdir = r'C:\\Users\\GIS_tech\\Desktop\\66county\\extracted'
-maindir = r'C:\\Users\\GIS_tech\\Desktop\\66county'
+maindir = r'C:\\Users\\gstrode\\censusData'
+targetdir = os.path.join(maindir,"extracted")
 sampledir = os.path.join(maindir,"SampleToMerge")
+desdir = os.path.join(maindir,"changeMetaDataHere")
 
 def createSample(targetdir,maindir,sampledir):
 	rt = None
