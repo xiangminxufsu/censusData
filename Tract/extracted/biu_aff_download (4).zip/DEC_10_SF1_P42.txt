@@ -1,0 +1,115 @@
+P42
+GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE
+
+Universe: Population in group quarters
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r51812)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51813)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51814)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51815)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51816)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51817)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51818)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r51819)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r25947)	This count has been revised.   
+Revised count: 171 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r25948)	This count has been revised.   
+Revised count: 133 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r25949)	This count has been revised.   
+Revised count: 274 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r25950)	This count has been revised.   
+Revised count: 0 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r51811)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+NOTE: For information on the codes that appear in this table see http://www.census.gov/prod/cen2010/doc/sf1.pdf, Appendix F.
+
+Source: U.S. Census Bureau, 2010 Census.
+

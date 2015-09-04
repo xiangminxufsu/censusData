@@ -1,0 +1,521 @@
+H1
+HOUSING UNITS
+
+Universe: Housing units
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r16922)	This count has been revised.   
+Revised count: 100 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16923)	This count has been revised.   
+Revised count: 9 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16924)	This count has been revised.   
+Revised count: 17 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16925)	This count has been revised.   
+Revised count: 2 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16926)	This count has been revised.   
+Revised count: 64 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16927)	This count has been revised.   
+Revised count: 44 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16928)	This count has been revised.   
+Revised count: 50 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16929)	This count has been revised.   
+Revised count: 19 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16930)	This count has been revised.   
+Revised count: 26 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16931)	This count has been revised.   
+Revised count: 21 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16932)	This count has been revised.   
+Revised count: 15 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16933)	This count has been revised.   
+Revised count: 19 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16934)	This count has been revised.   
+Revised count: 16 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16935)	This count has been revised.   
+Revised count: 20 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16936)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16937)	This count has been revised.   
+Revised count: 78 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16938)	This count has been revised.   
+Revised count: 34 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16939)	This count has been revised.   
+Revised count: 16 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16940)	This count has been revised.   
+Revised count: 39 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16941)	This count has been revised.   
+Revised count: 10 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16943)	This count has been revised.   
+Revised count: 92 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16944)	This count has been revised.   
+Revised count: 23 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16945)	This count has been revised.   
+Revised count: 5 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16946)	This count has been revised.   
+Revised count: 13 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16947)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16948)	This count has been revised.   
+Revised count: 12 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16949)	This count has been revised.   
+Revised count: 120 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16950)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16951)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16952)	This count has been revised.   
+Revised count: 90 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16953)	This count has been revised.   
+Revised count: 119 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16954)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16955)	This count has been revised.   
+Revised count: 346 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16956)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16957)	This count has been revised.   
+Revised count: 1 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16958)	This count has been revised.   
+Revised count: 27 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16959)	This count has been revised.   
+Revised count: 301 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16960)	This count has been revised.   
+Revised count: 1 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16961)	This count has been revised.   
+Revised count: 68 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16962)	This count has been revised.   
+Revised count: 9 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16963)	This count has been revised.   
+Revised count: 13 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16964)	This count has been revised.   
+Revised count: 8 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16965)	This count has been revised.   
+Revised count: 4 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16966)	This count has been revised.   
+Revised count: 12 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16967)	This count has been revised.   
+Revised count: 6 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16968)	This count has been revised.   
+Revised count: 19 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16969)	This count has been revised.   
+Revised count: 10 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16970)	This count has been revised.   
+Revised count: 8 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16971)	This count has been revised.   
+Revised count: 9 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16972)	This count has been revised.   
+Revised count: 6 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16973)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16974)	This count has been revised.   
+Revised count: 69 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16975)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16976)	This count has been revised.   
+Revised count: 53 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16977)	This count has been revised.   
+Revised count: 33 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16978)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16979)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16980)	This count has been revised.   
+Revised count: 105 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16981)	This count has been revised.   
+Revised count: 0 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16982)	This count has been revised.   
+Revised count: 73 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16983)	This count has been revised.   
+Revised count: 59 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16984)	This count has been revised.   
+Revised count: 121 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16985)	This count has been revised.   
+Revised count: 15 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r16988)	This count has been revised.   
+Revised count: 46 Revision date: 04-01-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

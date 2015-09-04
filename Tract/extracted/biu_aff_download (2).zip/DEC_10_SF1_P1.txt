@@ -1,0 +1,25 @@
+P1
+TOTAL POPULATION
+
+Universe: Total population
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r40210)	This count has been revised.   
+Revised count: 0 Revision date: 08-22-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40213)	This count has been revised.   
+Revised count: 979 Revision date: 08-22-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

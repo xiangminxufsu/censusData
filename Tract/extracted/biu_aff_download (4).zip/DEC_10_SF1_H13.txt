@@ -1,0 +1,161 @@
+H13
+HOUSEHOLD SIZE
+
+Universe: Occupied housing units
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r2197)	This count has been revised.   
+Revised count: 220 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49958)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r2191)	This count has been revised.   
+Revised count: 9 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49959)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r49960)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r49961)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r2182)	This count has been revised.   
+Revised count: 27 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49962)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r49963)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r49964)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r2185)	This count has been revised.   
+Revised count: 45 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49965)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r2186)	This count has been revised.   
+Revised count: 230 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2187)	This count has been revised.   
+Revised count: 107 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2173)	This count has been revised.   
+Revised count: 119 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2174)	This count has been revised.   
+Revised count: 47 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2175)	This count has been revised.   
+Revised count: 105 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2176)	This count has been revised.   
+Revised count: 138 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49957)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

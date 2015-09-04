@@ -1,0 +1,193 @@
+P1
+TOTAL POPULATION
+
+Universe: Total population
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r40249)	This count has been revised.   
+Revised count: 395 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53048)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r40243)	This count has been revised.   
+Revised count: 21 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53049)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53050)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53051)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r40230)	This count has been revised.   
+Revised count: 66 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53052)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53053)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53054)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r40233)	This count has been revised.   
+Revised count: 143 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53055)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r40234)	This count has been revised.   
+Revised count: 177 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40235)	This count has been revised.   
+Revised count: 133 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40236)	This count has been revised.   
+Revised count: 674 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40237)	This count has been revised.   
+Revised count: 0 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40238)	This count has been revised.   
+Revised count: 534 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40239)	This count has been revised.   
+Revised count: 211 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40221)	This count has been revised.   
+Revised count: 236 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40222)	This count has been revised.   
+Revised count: 60 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40223)	This count has been revised.   
+Revised count: 190 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r40224)	This count has been revised.   
+Revised count: 243 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53047)	This geographic area was changed or removed.        
+ 
+Revision date: 09-12-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

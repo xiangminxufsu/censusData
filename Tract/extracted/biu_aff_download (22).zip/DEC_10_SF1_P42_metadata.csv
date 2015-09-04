@@ -1,0 +1,13 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+D001,Total:
+D002,"Institutionalized population (101-106, 201-203, 301, 401-405):"
+D003,"Institutionalized population (101-106, 201-203, 301, 401-405): - Correctional facilities for adults (101-106)"
+D004,"Institutionalized population (101-106, 201-203, 301, 401-405): - Juvenile facilities (201-203)"
+D005,"Institutionalized population (101-106, 201-203, 301, 401-405): - Nursing facilities/Skilled-nursing facilities (301)"
+D006,"Institutionalized population (101-106, 201-203, 301, 401-405): - Other institutional facilities (401-405)"
+D007,"Noninstitutionalized population (501, 601-602, 701-702, 704, 706, 801-802, 900-901, 903-904):"
+D008,"Noninstitutionalized population (501, 601-602, 701-702, 704, 706, 801-802, 900-901, 903-904): - College/University student housing (501)"
+D009,"Noninstitutionalized population (501, 601-602, 701-702, 704, 706, 801-802, 900-901, 903-904): - Military quarters (601-602)"
+D010,"Noninstitutionalized population (501, 601-602, 701-702, 704, 706, 801-802, 900-901, 903-904): - Other noninstitutional facilities (701-702, 704, 706, 801-802, 900-901, 903-904)"

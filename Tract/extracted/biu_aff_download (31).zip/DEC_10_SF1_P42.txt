@@ -1,0 +1,11 @@
+P42
+GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE
+
+Universe: Population in group quarters
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+NOTE: For information on the codes that appear in this table see http://www.census.gov/prod/cen2010/doc/sf1.pdf, Appendix F.
+
+Source: U.S. Census Bureau, 2010 Census.
+

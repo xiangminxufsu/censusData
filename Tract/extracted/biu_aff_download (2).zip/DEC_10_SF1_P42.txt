@@ -1,0 +1,27 @@
+P42
+GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE
+
+Universe: Population in group quarters
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r25943)	This count has been revised.   
+Revised count: 0 Revision date: 08-22-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r25946)	This count has been revised.   
+Revised count: 979 Revision date: 08-22-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+NOTE: For information on the codes that appear in this table see http://www.census.gov/prod/cen2010/doc/sf1.pdf, Appendix F.
+
+Source: U.S. Census Bureau, 2010 Census.
+
