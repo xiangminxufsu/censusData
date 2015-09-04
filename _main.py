@@ -3,14 +3,14 @@
 import os
 import zipfile
 from code.pre_process import pre_Process_main
-#from code.step_one_merge_county import merge_main
+from code.step_one_merge_county import merge_main
 #from code.step_two_filter_ann import filter_main
 #from code.step_three_merge_table import merge_table_main
 
 
 def ProcessZip(folder):
 	pre_Process_main(folder)
-	#merge_main(folder)
+	merge_main(folder)
 	#filter_main(folder)
 	#merge_table_main(folder)
 	pass
@@ -51,7 +51,7 @@ for x in os.listdir(inputPath):
 	
 	if zipfile.is_zipfile(filePath):
 		ProcessZip(folder)
-		print filePath
+		#print "We are prosessing",filePath
 	else:
 		ProcessUnzip(folder)
 		print filePath,'no'

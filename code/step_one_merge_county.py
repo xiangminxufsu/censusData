@@ -3,18 +3,19 @@
 import os
 import shutil
 from distutils.dir_util import copy_tree
+import time
 #config
 
-
-maindir = r'C:\\Users\\gstrode\\censusData'
-targetdir = os.path.join(maindir,"extracted")
-sampledir = os.path.join(maindir,"SampleToMerge")
-desdir = os.path.join(maindir,"changeMetaDataHere")
 
 def createSample(targetdir,maindir,sampledir):
 	rt = None
 	cur_dir = None
-	assert not os.path.exists(sampledir), "%s already exists!" %(sampledir)
+	
+	#check if already exists
+	if os.path.exists(sampledir):
+		print "%s already exists, now delete it and make a new one" %(sampledir)
+		shutil.rmtree(sampledir)
+		 
 	os.makedirs(sampledir)
 	for folder in os.listdir(targetdir):
 		cur_dir = os.path.join(targetdir,folder)
@@ -26,8 +27,12 @@ def createSample(targetdir,maindir,sampledir):
 	return rt	
 			
 def mergeSameName(sampledir,desdir,targetdir):
-	if not os.path.exists(desdir):
-		os.makedirs(desdir)
+	sample_Name = os.path.basename(os.path.normpath(sampledir))
+	print "sample_Name", sample_Name
+	if os.path.exists(desdir):shutil.rmtree(desdir,ignore_errors = True)
+	time.sleep(2)
+	os.mkdir(desdir)
+	print "creating changeMetaDataHere folder..."
 	for files in os.listdir(sampledir):
 		#print files
 		if "with_ann.csv" in files:
@@ -40,8 +45,8 @@ def mergeSameName(sampledir,desdir,targetdir):
 					df.write(line)
 				
 				for tarf in os.listdir(targetdir):
-					if tarf == 'aff_download (1).zip':
-						print tarf, "find dup"
+					if tarf == sample_Name:
+						#print tarf, "find dup and jump"
 						continue #same file already being written
 					else:
 						tf = os.path.join(targetdir,tarf)
@@ -65,9 +70,17 @@ def mergeSameName(sampledir,desdir,targetdir):
 			sf.close()
 			df.close()
 			#print files
+	print "county merge complete..."
 		
 def merge_main(folder):
+	maindir = os.path.join(".",folder)#r'C:\\Users\\gstrode\\censusData'
+	assert os.path.exists(maindir),"Unable to find dir %s" %s(maindir)
+	targetdir = os.path.join(maindir,"extracted")
+	sampledir = os.path.join(maindir,"SampleToMerge")
+	desdir = os.path.join(maindir,"changeMetaDataHere")
 	pass
-samplefolder = createSample(targetdir,maindir,sampledir)
-mergeSameName(samplefolder,desdir,targetdir)
-shutil.rmtree(sampledir)
+	samplefolder = createSample(targetdir,maindir,sampledir)
+	mergeSameName(samplefolder,desdir,targetdir)
+	#delete sample folder and extracted folder
+	shutil.rmtree(sampledir,ignore_errors = True)
+	shutil.rmtree(targetdir,ignore_errors = True)
