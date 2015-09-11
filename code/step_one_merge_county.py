@@ -29,8 +29,10 @@ def createSample(targetdir,maindir,sampledir):
 def mergeSameName(sampledir,desdir,targetdir):
 	sample_Name = os.path.basename(os.path.normpath(sampledir))
 	print "sample_Name", sample_Name
-	if os.path.exists(desdir):shutil.rmtree(desdir,ignore_errors = True)
-	time.sleep(2)
+	while os.path.exists(desdir):
+		shutil.rmtree(desdir,ignore_errors = True)
+		print "deleting previous %s files" %(desdir)
+		time.sleep(1)
 	os.mkdir(desdir)
 	print "creating changeMetaDataHere folder..."
 	for files in os.listdir(sampledir):

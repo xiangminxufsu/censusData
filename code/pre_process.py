@@ -6,7 +6,7 @@ from distutils.dir_util import copy_tree
 import shutilimport timeimport sysimport time
 def unzip(directory,subdir,desdir):
 	logging.basicConfig(filename = 'log.log',format = '%(asctime)s %(levelname)s:%(message)s', level=logging.DEBUG)	assert os.path.exists(directory), "%s not exists!"%(directory)	assert os.path.exists(subdir), "%s not exists!"%(directory)	
-	if os.path.exists(desdir):		shutil.rmtree(desdir,ignore_errors = True)		print "old extracted files found, now deleting..."			time.sleep(2)	os.mkdir(desdir)	print os.path.exists('.\Tract\extracted')	logging.info("paths checked, now start unzip")   
+	if os.path.exists(desdir):		shutil.rmtree(desdir,ignore_errors = True)		print "old extracted files found, now deleting..."			time.sleep(2)	os.mkdir(desdir)	logging.info("paths checked, now start unzip")   
 	for x in os.listdir(subdir):				xdir = os.path.join(subdir,x)		if "._" in x: #shadow file from osx no need to process			print  "find useless file",x			continue				fh = open(xdir,'rb')		z = zipfile.ZipFile(fh)		newdir = os.path.join(desdir,x)		os.mkdir(newdir)
 		for name in z.namelist():			z.extract(name,newdir)
 		fh.close()	#logging.info("unzip completed, have a great day!")

@@ -66,11 +66,11 @@ def handler(outf,annf,metaf):
 		outf.write(','.join(writelist)+'\r\n')
         #break
     
-def filter_main(maindir):
+def unziped_filter_main(maindir):
 	print "filter_start"
 	maindir = os.path.join('.',maindir)
 	newdirectory = os.path.join(maindir,"FiltedAnnFile")#r'C:\\Users\\gstrode\\censusData\\FiltedAnnFile'
-	directory = os.path.join(maindir,"changeMetaDatahere")#r'C:\\Users\\gstrode\\censusData\\changeMetaDatahere'
+	directory = os.path.join(maindir,"Input")#r'C:\\Users\\gstrode\\censusData\\changeMetaDatahere'
 	logging.basicConfig(filename = 'log.log',format = '%(asctime)s %(levelname)s:%(message)s', level=logging.DEBUG)
 	logging.info('start running')
 	while os.path.exists(newdirectory):
